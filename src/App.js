@@ -9,7 +9,7 @@ function App() {
           <main>
             <Dictionary />
           </main>
-          <footer className="text-center">  <small>Coded by Daniela Paz </small></footer>
+          <footer className="text-center">  <small>Coded by Daniela Paz - Open Sourced on <a href="https://github.com/dpaz2290/react-dictionary-project" rel="noreferrer" target= "_blank">GitHub</a></small></footer>
         </div>
     </div>
   );

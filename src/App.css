@@ -1,4 +1,20 @@
-.App-footer {
+.App footer {
   text-align: center;
   margin: 30px 0;
+
 }
+
+.App footer a{
+  transition: all 150ms ease-in-out;
+  color: purple;
+}
+
+.App footer a:hover{
+  text-decoration: none;
+  color: white;
+}
+
+body {
+  background-color: #EAE0F7;
+}
+
