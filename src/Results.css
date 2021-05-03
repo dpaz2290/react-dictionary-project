@@ -3,4 +3,9 @@
     font-weight: bold;
     line-height: 1.5;
     text-transform: capitalize;
+    
+}
+.Results mark{
+background-color:#f9f0ca;
+    padding:0.1em 0.2em;
 }

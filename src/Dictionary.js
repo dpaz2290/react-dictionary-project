@@ -40,11 +40,11 @@ export default function Dictionary (){
             <section>
             
             <h1>
-                Wich Word would you like to search?
+                What's the Word?
             </h1>
             
             <form onSubmit={search}>
-                <input type="search" onChange={handleKeywordChange} />
+                <input type="search" onChange={handleKeywordChange} placeholder="Type here..."/>
                 <button type="submit">🔍</button>
             </form>
             
